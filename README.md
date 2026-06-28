@@ -130,7 +130,7 @@ For a given movie:
 ### Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Sarthakthakre18/Movie_Recommendation_system.git
 ```
 
 ### Install Dependencies
